@@ -10,7 +10,7 @@ nouns = ("Lemon", "Rag", "Goat", "Funk", "Crunch", "Suculant", "Tastey", "Juice"
 adjectives = ("Stinky", "Smelly", "Funky", "Breaded", "Soaked", "Sour", "Sweet")
 
 #Set Discord API bot token here
-TOKEN = ''
+TOKEN = 'Njg3MDgzNDE1NzA2NTMzOTUy.Xsb05w._Gct2Z0ESuZUHniWQtTixj6qbmA'
 
 description = "Sandwich text using NAN"
 bot = commands.Bot(command_prefix='!', description=description)
